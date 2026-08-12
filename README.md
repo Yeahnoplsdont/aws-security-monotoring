@@ -60,5 +60,6 @@ Proof of Detection
 Learning experience-
 What I learned most about building this lab was the core workflow of cloud security operations. how logs flow from activity to detection to alerting in a real AWS environment. It also taught me the difference between rule-based detection and behavioral detection and how they work alongside each other to catch what the other service may have missed.
 
-
+Next steps:
+My next steps would be to integrate a SIEM and create more automations such as disabling an IAM user based off brute force detection
 
