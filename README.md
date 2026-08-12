@@ -60,8 +60,5 @@ Proof of Detection
 Learning experience-
 What I learned most about building this lab was the core workflow of cloud security operations. how logs flow from activity to detection to alerting in a real AWS environment. It also taught me the difference between rule-based detection and behavioral detection and how they work alongside each other to catch what the other service may have missed.
 
-In Progress-
-When working through this detection lab I had one question: "What is stopping someone from going through with these actions?" These are simply alerts, but cybersecurity is more than alerting — it is also about how we respond to those alerts. I will be automating a threat response to these alerts using AWS Lambda, which will be triggered by GuardDuty findings to isolate compromised resources without manual intervention.
-Next Project
 
-For my next project I will be applying the skills of response, alerting, and monitoring to an Azure environment with a deliberately exposed honeypot to capture and triage real world brute force attacks from global threat actors.
+
